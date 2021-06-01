@@ -1,1 +1,2 @@
-.FPT-venv
+.FPT-venv/
+.vscode/
